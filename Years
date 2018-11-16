@@ -1,0 +1,6 @@
+# Ask the user for a year and works out how long ago
+startYearStr = input("In what year did you first use a computer? ")
+startYearInt = int(startYearStr)
+thisYearInt = 2018
+length = thisYearInt - startYearInt
+print("That was " + str(length) + " years ago!")
