@@ -1,0 +1,4 @@
+# This script will find the average of some integers
+print("We calculate the average of: 11, 22, 33, 44, 55, 66, 77, 88, 99 and get...")
+(11+22+33+44+55+66+77+88+99)/9
+print((11+22+33+44+55+66+77+88+99)/9)
